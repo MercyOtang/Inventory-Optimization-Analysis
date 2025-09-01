@@ -4,11 +4,11 @@ This project analyzes inventory transactions across multiple retail stores to op
 
 This project analyzes inventory transactions across multiple retail stores to optimize stock management and improve profitability. Using Power BI, the analysis explores product inflows, outflows, and net balances, while applying DAX measures to generate actionable insights.
 
-## Business Problem
+### Business Problem
 
 Inefficient inventory distribution across stores led to risks of stockouts, overstocking, and unnecessary carrying costs.
 
-## Objectives
+### Objectives
 
 Reduce inventory carrying costs
 
@@ -16,7 +16,7 @@ Minimize understocking & overstocking
 
 Improve profitability through optimized stock distribution
 
-## Data & Methodology
+### Data & Methodology
 
 Data Source: Inventory transactions table (fields: Date, Store, Product, Quantity In/Out, Unit Price)
 
@@ -32,7 +32,7 @@ Movement Ratio = Out ÷ In
 
 Visuals: Bar charts, matrices, slicers, store-level filtering
 
-## Key Insights
+### Key Insights
 
 Rice: Most frequently moved product with the highest movement ratio → demand is strong.
 
@@ -42,7 +42,7 @@ Maize: Overstock in some stores, shortages in others → inefficient distributio
 
 Seasonal Trends: Demand spikes during harvest and festive periods.
 
-## Recommendations
+### Recommendations
 
 Increase Rice supply to high-demand stores (e.g., Kano, Lagos).
 
@@ -54,9 +54,9 @@ Align procurement cycles with seasonal demand and implement predictive models.
 
 Enable centralized monitoring and real-time replenishment alerts in Power BI.
 
-## Outcome
+### Outcome
 
-The analysis helps management:
+#####The analysis helps management:
 * Prevent stockouts and overstocking
 * Improve operational efficiency
 * Optimize supply chain decisions
