@@ -56,7 +56,7 @@ Enable centralized monitoring and real-time replenishment alerts in Power BI.
 
 ### Outcome
 
-#####The analysis helps management:
+##### The analysis helps management:
 * Prevent stockouts and overstocking
 * Improve operational efficiency
 * Optimize supply chain decisions
