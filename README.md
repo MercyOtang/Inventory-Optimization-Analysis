@@ -10,11 +10,11 @@ Inefficient inventory distribution across stores led to risks of stockouts, over
 
 ### Objectives
 
-Reduce inventory carrying costs
+*Reduce inventory carrying costs
 
-Minimize understocking & overstocking
+*Minimize understocking & overstocking
 
-Improve profitability through optimized stock distribution
+*Improve profitability through optimized stock distribution
 
 ### Data & Methodology
 
@@ -34,25 +34,25 @@ Visuals: Bar charts, matrices, slicers, store-level filtering
 
 ### Key Insights
 
-Rice: Most frequently moved product with the highest movement ratio → demand is strong.
+*Rice: Most frequently moved product with the highest movement ratio → demand is strong.
 
-Beans: Risk of understocking in some months despite high inflows at Kano store.
+*Beans: Risk of understocking in some months despite high inflows at Kano store.
 
-Maize: Overstock in some stores, shortages in others → inefficient distribution.
+*Maize: Overstock in some stores, shortages in others → inefficient distribution.
 
-Seasonal Trends: Demand spikes during harvest and festive periods.
+*Seasonal Trends: Demand spikes during harvest and festive periods.
 
 ### Recommendations
 
-Increase Rice supply to high-demand stores (e.g., Kano, Lagos).
+*Increase Rice supply to high-demand stores (e.g., Kano, Lagos).
 
-Balance Beans distribution across stores and explore secondary suppliers.
+*Balance Beans distribution across stores and explore secondary suppliers.
 
-Redistribute excess Maize stocks and promote sales in overstocked stores.
+*Redistribute excess Maize stocks and promote sales in overstocked stores.
 
-Align procurement cycles with seasonal demand and implement predictive models.
+*Align procurement cycles with seasonal demand and implement predictive models.
 
-Enable centralized monitoring and real-time replenishment alerts in Power BI.
+*Enable centralized monitoring and real-time replenishment alerts in Power BI.
 
 ### Outcome
 
